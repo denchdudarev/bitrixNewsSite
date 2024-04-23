@@ -1,0 +1,17 @@
+{
+  "assetsByChunkName": {
+    "fonts": [
+      "fonts.css",
+      "fonts.js"
+    ],
+    "important": [
+      "important.css",
+      "important.js"
+    ],
+    "main": [
+      "main.css",
+      "main.js"
+    ],
+    "vendor": "vendor.js"
+  }
+}
